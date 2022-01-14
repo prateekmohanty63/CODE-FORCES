@@ -9,9 +9,9 @@
         ""
       ],
       "stopAtEntry": false,
-      "cwd": "c:/Users/BRBCO/Desktop/VIT/CODE FORCES",
+      "cwd": "c:/Users/BRBCO/Desktop/VIT SEM-4/CODE FORCES",
       "environment": [],
-      "program": "c:/Users/BRBCO/Desktop/VIT/CODE FORCES/build/Debug/outDebug",
+      "program": "c:/Users/BRBCO/Desktop/VIT SEM-4/CODE FORCES/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
