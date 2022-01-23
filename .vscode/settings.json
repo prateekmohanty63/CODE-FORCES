@@ -22,6 +22,7 @@
   ],
   "files.associations": {
     "*.ejs": "html",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "regex": "cpp"
   }
 }
